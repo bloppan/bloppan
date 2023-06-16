@@ -6,8 +6,8 @@ Hello! I'm a Embedded Software Engineer with electronics background. I'm current
 
 ## Some of my projects
 
-- [Yocto Project: Example distro layer](https://github.com/bloppan/meta-app)
-- [Linux userspace: Examples of shared libraries and applications](https://github.com/bloppan/linux_userspace)
+- [Yocto Project: Distro layer example](https://github.com/bloppan/meta-app)
+- [Linux userspace: Shared libraries and applications examples](https://github.com/bloppan/linux_userspace)
 - [MCU Bootloader: Easy example of STM32 based bootloader](https://github.com/bloppan/uc_bootloader)
 
 ## :phone: Contact me
